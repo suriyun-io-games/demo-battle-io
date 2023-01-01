@@ -19,3 +19,9 @@
 [submodule "Battle IO/Assets/_Submodules/simple-photon2-networkmanager"]
 	path = Battle IO/Assets/_Submodules/simple-photon2-networkmanager
 	url = https://github.com/insthync/simple-photon2-networkmanager.git
+[submodule "Battle IO/Assets/_Submodules/photon-battle-io-core"]
+	path = Battle IO/Assets/_Submodules/photon-battle-io-core
+	url = https://github.com/insthync/photon-battle-io-core.git
+[submodule "Battle IO/Assets/_Submodules/battle-io-playfab-client-demo"]
+	path = Battle IO/Assets/_Submodules/battle-io-playfab-client-demo
+	url = https://github.com/insthync/battle-io-playfab-client-demo.git
