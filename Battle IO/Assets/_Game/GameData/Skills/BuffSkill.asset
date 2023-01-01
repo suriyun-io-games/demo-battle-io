@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecea1c9d0fad3534d9639b6b49e3b21e, type: 3}
+  m_Name: BuffSkill
+  m_EditorClassIdentifier: 
+  hotkeyId: 1
+  icon: {fileID: 0}
+  attackAnimation:
+    actionId: 0
+    animationDuration: 0.79
+    launchDuration: 0.49
+    speed: 1
+    isAnimationForLeftHandWeapon: 0
+    damagePrefab: {fileID: 0}
+  damagePrefab: {fileID: 0}
+  statusEffectPrefab: {fileID: 114743184684383672, guid: 6d153652a81e4cd418aa6f13ff30efbd,
+    type: 2}
+  increaseDamage: 0
+  increaseDamageByRate: 0
+  spreadDamages: 0
+  coolDown: 3
+  attackFx: []

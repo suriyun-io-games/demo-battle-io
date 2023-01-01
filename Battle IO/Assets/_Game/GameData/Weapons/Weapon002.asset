@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cd3b80ad63e90a428286b20a33fb278, type: 3}
+  m_Name: Weapon002
+  m_EditorClassIdentifier: 
+  iconTexture: {fileID: 0}
+  previewTexture: {fileID: 0}
+  category: 
+  title: Sword
+  description: 
+  pricesOption: 0
+  price:
+    id: 
+    amount: 0
+  prices: []
+  canBuyOnlyOnce: 0
+  isLock: 0
+  stats:
+    addHp: 0
+    addAttack: 0
+    addDefend: 0
+    addMoveSpeed: 0
+    addExpRate: 0
+    addScoreRate: 0
+    addHpRecoveryRate: 0
+    addDamageRateLeechHp: 0
+    addSpreadDamages: 0
+    increaseDamageRate: 0
+    reduceReceiveDamageRate: 0
+  skills:
+  - {fileID: 11400000, guid: 6efa98ba4f7611349944bfbe34dc4452, type: 2}
+  rightHandObject: {fileID: 1000010853050978, guid: a4d72b2e28dda4b46bda6b164b763764,
+    type: 2}
+  leftHandObject: {fileID: 0}
+  shieldObject: {fileID: 0}
+  attackAnimations:
+  - actionId: 0
+    animationDuration: 0.79
+    launchDuration: 0.49
+    speed: 1
+    isAnimationForLeftHandWeapon: 0
+    damagePrefab: {fileID: 0}
+  - actionId: 2
+    animationDuration: 0.79
+    launchDuration: 0.49
+    speed: 1
+    isAnimationForLeftHandWeapon: 0
+    damagePrefab: {fileID: 0}
+  - actionId: 3
+    animationDuration: 1
+    launchDuration: 0.5
+    speed: 1
+    isAnimationForLeftHandWeapon: 0
+    damagePrefab: {fileID: 0}
+  damagePrefab: {fileID: 114720440324133354, guid: f01063439f0dd3346a5e747e72b8f85f,
+    type: 2}
+  attackFx: []
+  weaponAnimId: 0
