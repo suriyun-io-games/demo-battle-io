@@ -16,3 +16,6 @@
 [submodule "Battle IO/Assets/_Submodules/UnityEditorUtils"]
 	path = Battle IO/Assets/_Submodules/UnityEditorUtils
 	url = https://github.com/insthync/UnityEditorUtils.git
+[submodule "Battle IO/Assets/_Submodules/simple-photon2-networkmanager"]
+	path = Battle IO/Assets/_Submodules/simple-photon2-networkmanager
+	url = https://github.com/insthync/simple-photon2-networkmanager.git
