@@ -1,2 +1,2 @@
-# battle-io-demo
+# demo-battle-io
 A Battle IO demo project
